@@ -1,0 +1,193 @@
+{
+  "media": [
+    {
+      "id": 1,
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "media_type": "Movie",
+      "poster": "https://dorksideoftheforce.com/files/2021/05/EPI_TPM_poster-768x1152.jpg",
+      "summary": "Jedi Knights Obi-Wan Kenobi and Qui-Gon Jinn rescue Queen Amidala, ruler of a peaceful planet invaded by dark forces. During their escape, they discover nine-year-old Anakin Skywalker, a child prodigy who is unusually strong in the Force.",
+      "sw_date": -32,
+      "release": 1999
+    },
+    {
+      "id": 2,
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "media_type": "Movie",
+      "poster": "https://images2.minutemediacdn.com/image/fetch/c_fill,g_auto,f_auto,h_501,w_340/https%3A%2F%2Fdorksideoftheforce.com%2Ffiles%2F2021%2F05%2FAttack-Clones-Poster.jpg",
+      "summary": "When Jedi apprentice Anakin Skywalker is assigned to protect Senator Padmé Amidala, he discovers his love for her…and his own darker side. Obi-Wan Kenobi uncovers a secret clone army as the galaxy marches toward full-scale war.",
+      "sw_date": -22,
+      "release": 2002
+    },
+    {
+      "id": 3,
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "media_type": "Movie",
+      "poster": "https://dorksideoftheforce.com/files/2021/05/EPIII_RotS_poster-768x1152.jpg",
+      "summary": "Clone Wars rage across the galaxy. A sinister Sith Lord seizes control of the Republic and corrupts Anakin Skywalker to be his dark apprentice, Darth Vader. Now, in an epic lightsaber duel, Jedi Obi-Wan Kenobi must confront his fallen friend.",
+      "sw_date": -19,
+      "release": 2005
+    },
+    {
+      "id": 4,
+      "title": "Star Wars: Episode IV - A New Hope",
+      "media_type": "Movie",
+      "poster": "https://dorksideoftheforce.com/files/2021/05/Star_Wars_Style_A_poster_1977-768x1203.jpg",
+      "summary": "Young farm boy Luke Skywalker is thrust into a galaxy of adventure when he intercepts a distress call from the captive Princess Leia. The event launches him on a daring mission to rescue her from the clutches of Darth Vader and the evil Empire.",
+      "sw_date": 0,
+      "release": 1977
+    },
+    {
+      "id": 5,
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "media_type": "Movie",
+      "poster": "https://dorksideoftheforce.com/files/2021/05/81MzDPaxhL._AC_SL1500_-768x1166.jpg",
+      "summary": "The Rebels scatter after the Empire attacks their base on the ice planet Hoth. Han Solo and Princess Leia are pursued by Imperials, while Luke trains with Jedi Master Yoda. But when Luke battles Darth Vader, he  learns the shocking truth of his past.",
+      "sw_date": 3,
+      "release": 1980
+    },
+    {
+      "id": 6,
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "media_type": "Movie",
+      "poster": "https://images2.minutemediacdn.com/image/fetch/c_fill,g_auto,f_auto,h_508,w_339/https%3A%2F%2Fdorksideoftheforce.com%2Ffiles%2F2021%2F05%2FReturn-of-the-Jedi-official-poster.jpg",
+      "summary": "When the Empire prepares to crush the Rebellion with a more powerful Death Star, the Rebel fleet counters with a massive attack on the space station. In a final climactic duel, Luke Skywalker confronts Darth Vader.",
+      "sw_date": 4,
+      "release": 1983
+    },
+    {
+      "id": 7,
+      "title": "Star Wars: Episode VII - The Force Awakens",
+      "media_type": "Movie",
+      "poster": "https://dorksideoftheforce.com/files/2021/05/TFA-poster-768x1152.jpg",
+      "summary": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace. Experience the motion picture event of a generation in Star Wars: The Force Awakens.",
+      "sw_date": 34,
+      "release": 2015
+    },
+    {
+      "id": 8,
+      "title": "Star Wars: Episode VIII - The Last Jedi",
+      "media_type": "Movie",
+      "poster": "https://dorksideoftheforce.com/files/2021/05/TLJ_official002-768x1138.jpg",
+      "summary": "The Star Wars saga continues as new heroes and galactic legends go on an epic adventure, unlocking mysteries of the Force and shocking revelations of the past.",
+      "sw_date": 35,
+      "release": 2017
+    },
+    {
+      "id": 9,
+      "title": "Star Wars: Episode IX - The Rise of Skywalker",
+      "media_type": "Movie",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/the-rise-of-skywalker-theatrical-release-poster_303f64f5.jpeg",
+      "summary": "In STAR WARS: THE RISE OF SKYWALKER, the riveting conclusion of the landmark Skywalker saga, new legends will be born—and the final battle for freedom is yet to come.",
+      "sw_date": 36,
+      "release": 2019
+    },
+    {
+      "id": 10,
+      "title": "Solo: A Star Wars Story",
+      "media_type": "Movie",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/solo-theatrical-poster_f98a86eb.jpeg",
+      "summary": "Board the Millennium Falcon and journey to a galaxy far, far away in an epic action-adventure that will set the course of one of the Star Wars saga's most unlikely heroes.",
+      "sw_date": -13,
+      "release": 2018
+    },
+    {
+      "id": 11,
+      "title": "Rogue One: A Star Wars Story",
+      "media_type": "Movie",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/5adfd0618fdfb900016b5ca6-image_64bc2f8e.jpeg",
+      "summary": "From Lucasfilm comes an epic adventure — Rogue One: A Star Wars Story. In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire's ultimate weapon of destruction.",
+      "sw_date": -1,
+      "release": 2016
+    },
+    {
+      "id": 12,
+      "title": "Star Wars: The Clone Wars (The Movie)",
+      "media_type": "Movie",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/72/Star_wars_the_clone_wars.jpg?20171222064917",
+      "summary": "As the Clone Wars sweep through the galaxy, Anakin Skywalker and his new Padawan learner Ahsoka Tano plunge into a dangerous mission to rescue the kidnapped son of crime lord Jabba the Hutt.",
+      "sw_date": -21,
+      "release": 2008
+    },
+    {
+      "id": 13,
+      "title": "Star Wars: The Clone Wars",
+      "media_type": "TV show",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/the-clone-wars-returns-2020-key-art_ef129114.jpeg",
+      "summary": "The Star Wars saga continues from Executive Producer George Lucas and Lucasfilm Animation! With cutting-edge, feature-film quality computer animation, classic characters, astounding action, and the timeless battle between good and evil, Star Wars: The Clone Wars expands the Star Wars story with all new adventures set in a galaxy far, far away.",
+      "sw_date": -20,
+      "release": 2008
+    },
+    {
+      "id": 14,
+      "title": "Star Wars Rebels",
+      "media_type": "TV show",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/star-wars-rebels-season-four-key-art_e7b6d6df.jpeg",
+      "summary": "It is a dark time in the galaxy as the Galactic Empire continues to tighten its grip on the people through oppression and fear, compelling a few brave individuals to band together in resistance. The motley crew of the starship Ghost stands up for those who cannot fight for themselves, providing the spark to ignite a rebellion.",
+      "sw_date": -5,
+      "release": 2014
+    },
+    {
+      "id": 15,
+      "title": "Star Wars Resistance",
+      "media_type": "TV show",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/dc_star_wars_resistanceka_d54b1fb6.jpeg",
+      "summary": "After being recruited by Poe Dameron to join the Resistance and spy on the First Order, hotshot pilot Kazuda “Kaz” Xiono finds himself in over his head when he and BB-8 are stationed aboard a large aircraft refueling station called the Colossus. He struggles to keep his cover as a mechanic and comically gets entangled with ace racers, marauding pirates, and the mysterious owner of the Colossus. His investigation will take him ever closer to discovering what the First Order has planned for the galaxy.",
+      "sw_date": 33,
+      "release": 2018
+    },
+    {
+      "id": 16,
+      "title": "The Mandolorian",
+      "media_type": "TV show",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/the-mandalorian-poster-s3-serieslp_aa55f7a4.jpeg",
+      "summary": "After the fall of the Empire, a lone Mandalorian makes his way through the lawless galaxy with his foundling, Grogu.",
+      "sw_date": 9,
+      "release": 2019
+    },
+    {
+      "id": 17,
+      "title": "The Bad Batch",
+      "media_type": "TV show",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/the-bad-batch-key-art-s2-poster_119c999d.jpeg",
+      "summary": "Months have passed since the events on Kamino and the Bad Batch continue their journey navigating the Empire after the fall of the Republic. They will cross paths with friends and foes, both new and familiar, as they take on a variety of thrilling mercenary missions that will take them to unexpected and dangerous new places.",
+      "sw_date": -19,
+      "release": 2021
+    },
+    {
+      "id": 18,
+      "title": "The Book of Boba Fett",
+      "media_type": "TV show",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/p_disney_thebookofbobafett_withlogo_20721-1_4032a3ae.jpeg",
+      "summary": "No longer just a hired gun, Boba Fett reinvents himself on Tatooine alongside Fennec Shand.",
+      "sw_date": 9,
+      "release": 2021
+    },
+    {
+      "id": 19,
+      "title": "Ahsoka",
+      "media_type": "TV show",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/p_disneyplusoriginals_swc_ahsoka_1784_v1_ceff5525.jpeg?region=0%2C0%2C540%2C810",
+      "summary": "Set after the fall of the Empire, 'Ahsoka' follows the former Jedi knight Ahsoka Tano as she investigates an emerging threat to a vulnerable galaxy.",
+      "sw_date": 9,
+      "release": 2023
+    },
+    {
+      "id": 20,
+      "title": "Andor",
+      "media_type": "TV show",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/p_disneyplusoriginals_andor_v1_569_e2e1b900.jpeg",
+      "summary": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
+      "sw_date": -5,
+      "release": 2022
+    },
+    {
+      "id": 21,
+      "title": "Obi-Wan Kenobi",
+      "media_type": "TV show",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/p_starwarsobiwankenobi_v2_20649_ebb5549e.jpeg",
+      "summary": "During the reign of the Galactic Empire, Obi-Wan Kenobi embarks on a crucial mission",
+      "sw_date": -9,
+      "release": 2022
+    }
+  ]
+}
