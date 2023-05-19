@@ -93,8 +93,10 @@ function App() {
       </div>
       <Switch>
         <Route exact path="/">
-          <div className='button-div'>
-            <button onClick={handleButtonState} className="timeline-button">{buttonState ? "Chronological Order" : "Release Order"}</button>
+          <div className='button-position-div'>
+            <div onClick={handleButtonState} className='button-div'>
+              <p className="timeline-button">{buttonState ? "Chronological Order" : "Release Order"}</p>
+            </div>
           </div>
           <div className='grid'>
             <Timeline focusMediaSelector={focusMediaSelector} medias={medias} buttonState={buttonState}/>

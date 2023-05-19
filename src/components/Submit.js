@@ -3,7 +3,9 @@ import React from "react";
 function Submit({showSubmit}) {
     if (showSubmit === true) {
         return(
-            <h1>Thank You for your submission</h1>
+            <div className="button-div">
+                <h1>Thank You for your submission!</h1>
+            </div>
         )
     }
     return(

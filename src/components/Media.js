@@ -16,7 +16,7 @@ const dateSuffix = media.sw_date <= 0 ? `${Math.abs(media.sw_date)} BBY`: `${med
     return(
         <div className={index % 2 === 0 ? 'left' : 'right'}>
             <img onClick={focusMediaSelector} src={media.poster} alt="img"/>
-            <h3 onClick={handleToggle}>{toggle ? media.title : buttonState ? dateSuffix : media.release}</h3>
+            <h3 className="timeline-data" onClick={handleToggle}>{toggle ? media.title : buttonState ? dateSuffix : media.release}</h3>
         </div>
     )
 }
