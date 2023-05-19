@@ -107,8 +107,14 @@ h1, h2 {
 .grid2 img {
   max-width: 75%;
   border-style: solid;
-  border-color: #ffe81f;
+  border-color: #ffe91f6e;
   border-radius: 3px;
+}
+
+.grid2 img:hover {
+  border-color: #ffe81f;
+  border-style: dotted;
+  border-radius: 1px;
 }
 
 .grid2 h3 {
@@ -128,7 +134,7 @@ h1, h2 {
 }
 
 .media-search-card {
-  background-color: gray;
+  background-color: rgb(54, 54, 54);
 }
 
 .searchbar {
@@ -193,4 +199,11 @@ h1, h2 {
 
 .nav-bar a {
   color: #ffe81f;
+}
+
+.flexbox4 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
 }

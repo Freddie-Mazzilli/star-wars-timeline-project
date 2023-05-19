@@ -188,6 +188,15 @@
       "summary": "During the reign of the Galactic Empire, Obi-Wan Kenobi embarks on a crucial mission",
       "sw_date": -9,
       "release": 2022
+    },
+    {
+      "id": 22,
+      "title": "Star Wars: Visions",
+      "media_type": "TV Show",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/image_5fcdd79b.jpeg",
+      "summary": "",
+      "sw_date": "10",
+      "release": "2021"
     }
   ]
 }

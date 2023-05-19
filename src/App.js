@@ -9,6 +9,7 @@ import SearchBar from './components/SearchBar';
 import AddMedia from './components/AddMedia';
 import NewMedia from './components/NewMedia';
 import Focus from './components/Focus';
+import Submit from './components/Submit';
 
 function App() {
 
@@ -28,6 +29,8 @@ function App() {
     "release": ""
   })
 
+  const [showSubmit, setShowSubmit] = useState(false)
+
   function updateFormData(event){
     setFormData({...formData, [event.target.name]: event.target.value})
     console.log(formData)
@@ -35,6 +38,7 @@ function App() {
 
   function addMedia(event){
     event.preventDefault()
+    setShowSubmit(!showSubmit)
 
     fetch("http://localhost:3000/media", {
       method: "POST",
@@ -108,6 +112,9 @@ function App() {
           </div>
           <div className='flexbox2'>
             <NewMedia formData={formData}/>
+          </div>
+          <div className='flexbox4'>
+            <Submit showSubmit={showSubmit}/>
           </div>
         </Route>
         <Route path="/focus">
