@@ -112,11 +112,11 @@ function App() {
           <div className='flexbox1'>
             <AddMedia updateFormData={updateFormData} addMedia={addMedia}/>
           </div>
-          <div className='flexbox2'>
-            <NewMedia formData={formData}/>
-          </div>
           <div className='flexbox4'>
             <Submit showSubmit={showSubmit}/>
+          </div>
+          <div className='flexbox2'>
+            <NewMedia formData={formData}/>
           </div>
         </Route>
         <Route path="/focus">

@@ -8,7 +8,7 @@ function SearchBar({setSearchText}) {
                 className="form"
                 type="text"
                 id="search"
-                placeholder="Type a name to search..."
+                placeholder="Search by Game name"
                 onChange={(event) => {
                     setSearchText(event.target.value)
                 }}
